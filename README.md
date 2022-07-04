@@ -1,6 +1,6 @@
 
 # ICS3U-Projects
-A collection of assignments and projects created in the ICS3U summer school course. The programming language used was processing (a Java compiler and graphical library.)
+Collection of assignments and projects created in ICS3U summer school course. Programming language used was processing (Java compiler and graphical library.)
 <br>
 **Featured images:**
 <br><br>
