@@ -2,6 +2,10 @@
 //Create setup function
 void setup() {
   size(532, 720);
+}
+
+//Create draw function
+void draw() {
   //Face
   strokeWeight(1);
   fill(239, 247, 85);
