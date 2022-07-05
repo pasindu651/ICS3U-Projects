@@ -26,35 +26,35 @@ void draw() {
   
   //Left eye
   strokeWeight(1);
-  fill(255, 255, 255);
+  fill(255);
   ellipse(215, 170, 110, 130);
   
   //Left pupil
   fill(110, 230, 251);
   ellipse(215, 170, 55, 65);
-  fill(0, 0, 0);
+  fill(0);
   ellipse(215, 170, 27.5, 32.5);
   
   //Left pupil shine
   noStroke();
-  fill(255, 255, 255);
+  fill(255);
   ellipse(209, 160, 12, 15);
   
   //Right eye
   stroke(0);
-  fill(255, 255, 255);
+  fill(255);
   ellipse(325, 170, 110, 130);
   
   //Right pupil
   stroke(0);
   fill(110, 230, 251);
   ellipse(325, 170, 55, 65);
-  fill(0, 0, 0);
+  fill(0);
   ellipse(325, 170, 27.5, 32.5);
   
   //Right pupil shine
   noStroke();
-  fill(255, 255, 255);
+  fill(255);
   ellipse(319, 160, 12, 15);
   
   //Mouth
@@ -66,7 +66,7 @@ void draw() {
   line(374, 249, 350, 238);
 
   //Left tooth
-  fill(255, 255, 255);
+  fill(255);
   beginShape(); 
   vertex(216, 305);
   vertex(216, 345);
@@ -75,7 +75,7 @@ void draw() {
   endShape(CLOSE);
    
   //Right tooth
-  fill(255, 255, 255);
+  fill(255);
   beginShape(); 
   vertex(276, 315);
   vertex(276, 345);
@@ -101,7 +101,7 @@ void draw() {
   
   //Suit
   strokeWeight(1);
-  fill(255, 255, 255);
+  fill(255);
   rect(266, 430, 340, 120);
   
   fill(161, 122, 36);
@@ -113,7 +113,7 @@ void draw() {
   fill(161, 122, 36);
   rect(360, 505, 60, 30);
   
-  fill(255, 255, 255);
+  fill(255);
   triangle(96, 436, 96, 369, 57, 436);
   triangle(435, 436, 435, 369, 474, 436);
 
@@ -130,7 +130,7 @@ void draw() {
   rect(360, 580, 30, 120);
   
   //Left shoe
-  fill(0, 0, 0);
+  fill(0);
   ellipse(158, 627, 80, 40);
   
   //Right shoe
