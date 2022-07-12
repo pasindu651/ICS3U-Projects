@@ -58,7 +58,7 @@ void draw() {
     mouseLocation = "NONE";
   }
   
-  //Create circles using fill color stored in each "circleColor" 
+  //Create circles using fill color stored in each respective "circleColor" 
   //LARGE circle
   fill(circleColor1);
   ellipse(width/2, height/2, dmtr1, dmtr1);
