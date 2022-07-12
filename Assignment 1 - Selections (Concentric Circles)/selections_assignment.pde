@@ -53,7 +53,7 @@ void draw() {
     //Change color of SMALL circle to yellow
     circleColor3 = color(#f4e300);
     
-    //Else, if distance not within radii of any circles, set mouseLocation to NONE (will not effect color of any circles)
+    //Else, if distance not within radii of any circles, set mouseLocation to NONE (will not effect color of any circle)
   } else {
     mouseLocation = "NONE";
   }
