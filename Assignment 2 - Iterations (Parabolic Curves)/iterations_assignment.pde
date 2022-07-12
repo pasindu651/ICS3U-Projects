@@ -6,7 +6,7 @@ color light, dark, l1Color, l2Color, l3Color, l4Color;
 
 //Create setup function
 void setup() {
-  //Create 600x600 run window
+  //Create 600 x 600 run window
   size(600, 600);
   //Set background color to light beige
   background(#fcfff5);
