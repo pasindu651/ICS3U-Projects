@@ -1,1 +1,1 @@
-The screen is divided into four quadrants each with four parabolic curves. The curves closest to the center of the screen have a grey color while the rest are light beige. A single parabolic curve is acheived by drawing lines from one ray of a right angle to the other at equal intervals.
+The screen is divided into four quadrants each with four parabolic curves. The curves closest to the center of the screen are grey while the rest are light beige. A single parabolic curve is acheived by drawing lines from one ray of a right angle to the other at equal intervals.
