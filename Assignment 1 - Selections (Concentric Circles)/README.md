@@ -1,1 +1,1 @@
-
+ICS3U Assignment 1 (LEVEL 4): A program that draws 3 concentric circles with diameters 200, 400, and 600 respectively. As the mouse is drawn across the circles, the shape following the cursor changes from a circle to a square, and finally to a cross-hair. The diameter of the following circle is 20 pixels, the square and cross-hair both have a width and length of 20 pixels.
