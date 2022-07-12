@@ -27,7 +27,7 @@ void draw() {
   //Change background color to white
   background(#fefcfe);
   
-  //Set color of three circles to white at beginning of iteration
+  //Set color of all three circles to white at beginning of iteration
   circleColor1 = color(white);
   circleColor2 = color(white);
   circleColor3 = color(white);
