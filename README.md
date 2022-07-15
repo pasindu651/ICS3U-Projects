@@ -6,8 +6,9 @@ Collection of assignments and projects created in ICS3U summer school course. Pr
 <br><br>
 
 
+
 <ul>
-    <li><img src="http://example.com/image1.jpg" alt="Image 1"></li>
-    <li><a href="http://example.com/image2_full.jpg"><img src="http://example.com/image2.jpg" alt="Image 2"></a></li>
-    <li><img src="http://example.com/image3.jpg" alt></li>
+    <li><img src="https://i.ibb.co/WkgH6KC/Screenshot-302.png" alt="Image 1"></li>
+    <li><a href="https://i.ibb.co/7RVLVqF/Screenshot-310.png"><img src="http://example.com/image2.jpg" alt="Image 2"></a></li>
+    <li><img src="https://i.ibb.co/379xtJd/Screenshot-311.png" alt></li>
 </ul>
