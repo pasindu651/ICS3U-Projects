@@ -1,1 +1,1 @@
-ICS3U Assignment 2 (LEVEL 4): After the user has clicked 20 times on the screen, small circles appear on the run window where clicked. A larger circle in the center of the screen appears with lines connecting to the other circles.
+ICS3U Assignment 4 (LEVEL 4): After the user has clicked 20 times on the screen, small circles appear on the run window where clicked. A larger circle in the center of the screen appears with lines connecting to the other circles.
