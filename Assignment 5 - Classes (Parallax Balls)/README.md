@@ -1,2 +1,2 @@
-ICS3U Assignment 4 (LEVEL 4): Following the parallax rule, three types of ball classes are made (each with different speeds, sizes, and colors). The largest and fastest balls are placed in the foreground, the medium sized balls are placed in the midground, and the slowest and smallest balls are placed in the background.
+ICS3U Assignment 4 (LEVEL 4): With respect to the parallax rule, three types of ball classes are made (each with different speeds, sizes, and colors). The largest and fastest balls are placed in the foreground, the medium sized balls are placed in the midground, and the slowest and smallest balls are placed in the background.
 
