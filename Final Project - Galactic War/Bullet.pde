@@ -1,7 +1,7 @@
 //Bullet class
 class Bullet {
   PImage bullet;//Bullet image
-  PVector position, velocity, starting_position;//Position, velocity, and starting_position vectors
+  PVector position, velocity, starting_position;//Position, velocity, and starting position vectors
   float sx, sy, speed, size;//Starting x and y, speed, and size
 
   //Bullet constructor
