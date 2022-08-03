@@ -1,1 +1,1 @@
-All graphics and assets 
+All included graphics and assets.
