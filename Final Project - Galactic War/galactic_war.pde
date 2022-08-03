@@ -91,7 +91,7 @@ void setup() {
   three_hearts = loadImage("3_hearts.png");//Three hearts remaining
 
   //How to play instructions
-  howTo = "Use WASD to control the spaceship. Colliding with small asteroids inflict 1 heart of damage, medium asteroids inflict 2 hearts of damage, and large asteroids inflict 3 hearts of damage. The fuel supply will deplete by 10% for every 2 seconds. The game is lost if the fuel is fully depleted or if the spaceship is destroyed. Restore your fuel by collecting fuel canisters dropped by destroyed enemy spaceships. PRESS ENTER FOR MENU";
+  howTo = "Use WASD to control the spaceship and spacebar to fire projectiles. Colliding with small asteroids inflict 1 heart of damage, medium asteroids inflict 2 hearts of damage, and large asteroids inflict 3 hearts of damage. The fuel supply will deplete by 10% for every 2 seconds. The game is lost if the fuel is fully depleted or if the spaceship is destroyed. Restore your fuel by collecting fuel canisters dropped by destroyed enemy spaceships. PRESS ENTER FOR MENU";
 
   //Create objects
   gameMenu = new Menu(titleFont, "START", "HOW TO PLAY", "QUIT", "GALACTIC WAR", true, yellow, darkYellow, red, grey);//New game menu with custom title, options, and colors
