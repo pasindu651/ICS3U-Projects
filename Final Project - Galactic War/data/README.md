@@ -1,1 +1,1 @@
-Game graphics
+All graphics and assets 
